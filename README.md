@@ -36,7 +36,7 @@ The underlying script (written in Bash) does the following:
 
 ---
 
-## 📁 Example
+## Example
 
 ### Before:
 
@@ -61,7 +61,7 @@ DesignProject/
 
 ---
 
-## 🚨 Notes
+## Notes
 
 - Only `.ai` files are processed.
 - Filenames must include the version suffix (e.g., `-v3`).
@@ -69,14 +69,14 @@ DesignProject/
 
 ---
 
-## 💻 Requirements
+## Requirements
 
 - Bash (for Windows users, this means Git Bash, WSL, or similar)
 - Ability to run `.bat` batch files on Windows
 
 ---
 
-## 🧪 TODO
+## TODO
 
 - Add support for versioning other file types (e.g., `.pdf`, `.eps`)
 - Include optional cleanup of older versions
